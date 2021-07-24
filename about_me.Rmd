@@ -1,0 +1,20 @@
+---
+title: "DDS"
+author: "JR"
+date: "7/7/2021"
+output: html_document
+---
+
+# About me
+## Jeff Reed
+## Born in Houston, TX
+## Hobbies: playing with my 3 kids (7, 4, 9m) and working out in my garage when they are asleep
+## Education:  TCU BBA, UT MBA
+## 5 F's of my life (in this order of priority): Faith, Family, Friends, Finance, Fitness
+
+## Here are links to videos of me discussing recent projects
+## DDS Project 1 - https://www.youtube.com/watch?v=uzc_eJyoHg8&t=20s
+## DDS Project 2 - https://www.youtube.com/watch?v=Y3VLaIGCA50
+
+### The other tabs are currently under construction but will represent work / analyses that I have completed.  Please come back once I figure out how to code better.... :)
+
